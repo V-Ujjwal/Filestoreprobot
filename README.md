@@ -29,11 +29,11 @@
 - `LOG_CHANNEL` - Logs Channel ID
 	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
 
-- `DELETETIME` - File delete time fill it in seconds format 1min = 60
+- DELETE_TIME - File delete time fill it in seconds format 1min = 60
 
 ### Deploy Now:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/V-Ujjwal/FilestorePro)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/V-Ujjwal/Filestoreprobot)
 
 ## Commands:
 

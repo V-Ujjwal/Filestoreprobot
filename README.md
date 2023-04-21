@@ -29,7 +29,7 @@
 - `LOG_CHANNEL` - Logs Channel ID
 	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
 
-- DELETE_TIME - File delete time fill it in seconds format 1min = 60
+- `DELETE_TIME` - File delete time fill it in seconds format 1min = 60
 
 ### Deploy Now:
 

@@ -1,9 +1,11 @@
-Pyrogram
+Pyrogram==2.0.30
 TgCrypto
 motor
 aiofiles
 dnspython
 psutil
+aiohttp
+from flask import Flask
 Flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.1
